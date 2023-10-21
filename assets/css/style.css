@@ -535,7 +535,7 @@ body.active {
 .hero .wrapper .strong {
     position: absolute;
     top: 0;
-    left: 45%;
+    left: 50%;
     transform: translateX(-50%);
     width: 300px;
     font-weight: inherit;
@@ -1521,7 +1521,7 @@ body.active {
     }
 
     .hero .wrapper .strong {
-        left: 40%;
+        left: 45%;
     }
 
     .hero-text {
