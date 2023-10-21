@@ -535,7 +535,7 @@ body.active {
 .hero .wrapper .strong {
     position: absolute;
     top: 0;
-    left: 50%;
+    left: 45%;
     transform: translateX(-50%);
     width: 300px;
     font-weight: inherit;
@@ -1268,7 +1268,7 @@ body.active {
     }
 
     .hero-title {
-        text-align: left;
+        text-align: center;
     }
 
     .hero .wrapper {
@@ -1426,15 +1426,15 @@ body.active {
     }
 
     .footer .abs-img-3 {
-        width: 16%;
-        left: 0;
+        width: 15%;
+        left: 5%;
         bottom: 10%;
     }
 
     .footer .abs-img-4 {
-        width: 9%;
-        right: 15%;
-        bottom: 10%;
+        width: 15%;
+        right: 10%;
+        bottom: 5%;
     }
 
     /**
